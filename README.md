@@ -13,5 +13,5 @@ I had dabbled with python and arduino and I am keen to learn more.<br>
  --->
 # Repositories
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=georgerahul24&repo=Vira-Personal-Assistant&theme=radical)<br>
-<u>N.B.<u><br>
+<u>N.B.</u><br>
 See all my repositories [here](https://github.com/georgerahul24?tab=repositories)
