@@ -1,4 +1,4 @@
-### Hi there 👋!
+### Hi There 👋!
 
 I am a coding enthusiast who is looking for opportunities to learn new things😁.
 <BR>
