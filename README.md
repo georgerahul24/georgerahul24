@@ -12,12 +12,14 @@ I had dabbled with python and arduino and I am keen to learn more.<br>
 [pin](https://github-readme-stats.vercel.app/api/pin/?username=georgerahul24&theme=radical)
  --->
 # Repositories
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgerahul24&repo=Vira-Personal-Assistant&theme=radical"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=georgerahul24&repo=Vira-Personal-Assistant&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgerahul24&repo=LinkOnClick&theme=radical"/>
+
+
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=georgerahul24&repo=Vira-Personal-Assistant&theme=radical)<br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=georgerahul24&repo=LinkOnClick&theme=radical)<br>-->
 
 
 
-<u>N.B.</u><br>
+<u> N.B. </u> <br>
 See all my repositories [here](https://github.com/georgerahul24?tab=repositories)
