@@ -3,6 +3,7 @@
 I am a coding enthusiast who is looking for opportunities to learn new things😁.
 <BR>
 I had dabbled with python, arduino and CSS and I am keen to learn more.<br>
+ <br><b>If you wanna see my non-functional website well.....[Here it is](https://georgerahul24.github.io/Website/).</b><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgerahul24&count_private=true&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgerahul24&theme=radical"/>
 
