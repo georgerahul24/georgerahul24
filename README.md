@@ -12,13 +12,10 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Arduino-based projects and Python scripting**
-- 🌱 I’m currently learning **advanced CSS techniques and JavaScript frameworks**
-- 👯 I’m looking to collaborate on **open-source projects related to IoT and web development**
-- 💬 Ask me about **Python, Arduino, and CSS**
+- 🔭 I’m currently working on a lot of stuffs that even I have no ideas what they are*
+- 🌱 I’m currently learning a lot of stuffs that I also have no idea what they are
+- 👯 I’m looking to collaborate on **open-source projects related to anything and everything
 - 📫 How to reach me: [georgerahul24@gmail.com](mailto:georgerahul24@gmail.com)
-- ⚡ Fun fact: I love exploring new technologies and building innovative projects!
-
 ---
 
 <!-- Skills -->
