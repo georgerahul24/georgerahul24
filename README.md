@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working on a lot of stuffs that even I have no ideas what they are*
 - 🌱 I’m currently learning a lot of stuffs that I also have no idea what they are
-- 👯 I’m looking to collaborate on **open-source projects related to anything and everything
-- 📫 How to reach me: [georgerahul24@gmail.com](mailto:georgerahul24@gmail.com)
+- 👯 I’m looking to collaborate on open-source projects related to anything and everything
+- 📫 My Website is georgerahul24.in
 ---
 
 <!-- Skills -->
